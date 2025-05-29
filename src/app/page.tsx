@@ -66,7 +66,7 @@ export default function Home() {
 
           {/* About Me Section */}
           <div className="about-me">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif italic mb-4">HEY, I'M ALEX</h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif italic mb-4">HEY, I&apos;M ALEX</h1>
             <div className="w-full max-w-[150px]">
               <Image
                 src="/portfolio_files/alex.jpeg"
@@ -153,7 +153,7 @@ export default function Home() {
               />
               <Item
                 number="03"
-                content={<p>interested in biohacking and biological perfomance enhancement. what works, what doesn't, and how inputs == outputs.</p>}
+                content={<p>interested in biohacking and biological perfomance enhancement. what works, what doesn&apos;t, and how inputs == outputs.</p>}
               />
             </div>
           </section>
