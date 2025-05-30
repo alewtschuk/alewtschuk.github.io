@@ -100,7 +100,7 @@ export default function Home() {
                 <div className="font-mono text-xs space-y-4">
                   <div className="flex gap-4">
                     <CustomLink href="https://github.com/alewtschuk" text="github" />
-                    <CustomLink href="https://linkedin.com/in/alewtschuk" text="linkedin" />
+                    <CustomLink href="https://www.linkedin.com/in/alexlewtschuk/" text="linkedin" />
                   </div>
                   <div className="flex gap-4">
                     <CustomLink href="https://digitalstatic.substack.com" text="substack" />
