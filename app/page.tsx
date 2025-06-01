@@ -79,7 +79,7 @@ export default function Home() {
               software engineer building on the internet. exploring at the edge. passionate about technology, biology, and what makes things tick.
             </p>
             <p className="font-mono text-sm">
-              <MailLink href="mailto:alex@lewtschuk.com" text="alex@alewtschuk.com" />
+              <MailLink href="mailto:alex@alexlewtschuk.com" text="alex@alexlewtschuk.com" />
             </p>
             <h2 className="font-sans text-sm mb-1">ON HERE</h2>
             <div className="font-mono text-xs space-y-4 mt-1">
