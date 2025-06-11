@@ -84,7 +84,7 @@ export default function Home() {
             <h2 className="font-sans text-sm mb-1">ON HERE</h2>
             <div className="font-mono text-xs space-y-4 mt-1">
                   <div className="flex gap-4">
-                    <CustomLink href="/portfolio_files/resume.pdf" text="resumé" />
+                    //<CustomLink href="/portfolio_files/resume.pdf" text="resumé" />
                     <CustomLink href="/portfolio_files/UTM_guide.pdf" text="utm x86 guide" />
                   </div>
                   <div className="flex gap-4">
