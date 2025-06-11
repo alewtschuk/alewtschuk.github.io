@@ -63,7 +63,7 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-12 lg:gap-32 items-start">
 
-          {/* About Me Section */}
+          
           <div className="about-me">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif italic mb-4">HEY, I&apos;M ALEX</h1>
             <div className="w-full max-w-[150px]">
@@ -84,7 +84,7 @@ export default function Home() {
             <h2 className="font-sans text-sm mb-1">ON HERE</h2>
             <div className="font-mono text-xs space-y-4 mt-1">
                   <div className="flex gap-4">
-                    //<CustomLink href="/portfolio_files/resume.pdf" text="resumé" />
+                    {/*<CustomLink href="/portfolio_files/resume.pdf" text="resumé" />*/}
                     <CustomLink href="/portfolio_files/UTM_guide.pdf" text="utm x86 guide" />
                   </div>
                   <div className="flex gap-4">
