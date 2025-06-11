@@ -68,7 +68,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif italic mb-4">HEY, I&apos;M ALEX</h1>
             <div className="w-full max-w-[150px]">
               <Image
-                src="/portfolio_files/alex.jpeg"
+                src="/portfolio_files/images/alex.jpeg"
                 alt="Portrait of me"
                 width={200}
                 height={200}
@@ -84,16 +84,13 @@ export default function Home() {
             <h2 className="font-sans text-sm mb-1">ON HERE</h2>
             <div className="font-mono text-xs space-y-4 mt-1">
                   <div className="flex gap-4">
-                    {/*<CustomLink href="/portfolio_files/resume.pdf" text="resumé" />*/}
-                    <CustomLink href="/portfolio_files/UTM_guide.pdf" text="utm x86 guide" />
+                    <CustomLink href="/portfolio_files/docs/resume.pdf" text="resumé" />
+                    <CustomLink href="/portfolio_files/docs/UTM_guide.pdf" text="utm x86 guide" />
                   </div>
                   <div className="flex gap-4">
-                    <CustomLink href="/portfolio_files/pulsepoint.pdf" text="pulse-point" />
+                    <CustomLink href="/portfolio_files/docs/pulsepoint.pdf" text="pulse-point" />
                   </div>
                 </div>
-            {/* <p className="font-mono text-xs mt-1" >
-              <CustomLink href="/portfolio_files/resume.pdf" text="resumé" />
-            </p> */}
             <div className="space-y-12">
               <div>
                 <h2 className="font-sans text-sm mb-4 mt">FIND ME ON THE INTERNET @</h2>

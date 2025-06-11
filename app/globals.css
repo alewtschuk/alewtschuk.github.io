@@ -1598,11 +1598,11 @@ table {
 
 @font-face {
     font-family: mondwest;
-    src: url(/portfolio_files/mondwest.otf) format("opentype");
+    src: url(/portfolio_files/fonts/mondwest.otf) format("opentype");
 }
 @font-face {
     font-family: spacemono;
-    src: url(/portfolio_files/spacemono.ttf) format("truetype");
+    src: url(/portfolio_files/fonts/spacemono.ttf) format("truetype");
 }
 
 /* .about-me > h1 {
