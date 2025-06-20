@@ -170,7 +170,7 @@ export default function Home() {
                 number="00"
                 content={
                   <p>
-                    architected and developed a novel hipa compliant blockchain protocol,{" "}
+                    architected and developed a novel hipaa compliant blockchain protocol,{" "}
                     <CustomLink href="https://link.springer.com/chapter/10.1007/978-981-97-3289-0_32" text="PharmaSys" />,
                     {" "}backed by the national science foundation to prevent prescription missuse. spoke @{" "}
                     <CustomLink href="https://icict.co.uk/home.php" text="ICICT" /> 2024
