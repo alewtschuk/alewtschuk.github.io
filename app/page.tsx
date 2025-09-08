@@ -107,13 +107,12 @@ export default function Home() {
               </div>
             </div>
             <div className="font-sans text-[10px] text-gray-600/50 mt-4">
-              inspired by @tylerkim inspired by @tinabmai. good developers copy, great develeopers steal, or something like that...
+              stylistically inspired by @tinabmai.
             </div>
           </div>
 
           {/* Spacer Column */}
           <div></div>
-
           {/* Currently Section */}
           <section>
             <div className="hidden lg:block">
@@ -137,9 +136,10 @@ export default function Home() {
                 number="01"
                 content={
                   <p>
-                    graduated with a bachelors of science in computer science @{" "}
+                    graduated with a bachelor's of science in computer science @{" "}
                     <CustomLink href="https://www.boisestate.edu/coen-cs/" text="boise state university" />
-                    {" "}and data analytics certified by google
+                    {" "}and{" "}
+                    <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="data analytics certified by google" /> 
                   </p>
                 }
               />
@@ -149,7 +149,15 @@ export default function Home() {
               />
               <Item
                 number="03"
-                content={<p>interested in biohacking and biological perfomance enhancement. what works, what doesn&apos;t, and how inputs == outputs.</p>}
+                content={<p>interested in biohacking and biological performance enhancement. what works, what doesn&apos;t, and how inputs == outputs.</p>}
+              />
+              <Item
+                number="04"
+                content={
+                  <p>
+                    stake pool opperator, managing infrastructure of a pool with over 500K USD in digital assets staked
+                  </p>
+                }
               />
             </div>
           </section>
@@ -172,7 +180,7 @@ export default function Home() {
                   <p>
                     architected and developed a novel hipaa compliant blockchain protocol,{" "}
                     <CustomLink href="https://link.springer.com/chapter/10.1007/978-981-97-3289-0_32" text="PharmaSys" />,
-                    {" "}backed by the national science foundation to prevent prescription missuse. spoke @{" "}
+                    {" "}backed by the national science foundation to prevent prescription misuse. spoke @{" "}
                     <CustomLink href="https://icict.co.uk/home.php" text="ICICT" /> 2024
                   </p>
                 }
@@ -181,7 +189,7 @@ export default function Home() {
                 number="01"
                 content={
                   <p>
-                    worked with market makers, l1/l2s, and some of the best minds in web3 producing technical and market research @{" "}
+                    worked with market makers, L1/L2s, and some of the best minds in web3 producing technical and market research @{" "}
                     <CustomLink href="https://www.theblock.co/" text="The Block" />
                   </p>
                 }
@@ -191,7 +199,7 @@ export default function Home() {
                 content={
                   <p>
                     authored another{" "}
-                    <CustomLink href="/portfolio_files/survey.pdf" text="paper" />
+                    <CustomLink href="/portfolio_files/docs/survey.pdf" text="paper" />
                     {" "}on web3 use cases within medical applications in tandem with phd guidance, backed by the{" "}
                     <CustomLink href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2051127" text="NSF" />
                     {" "}currently in pre-submission.
