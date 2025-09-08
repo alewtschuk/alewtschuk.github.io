@@ -138,8 +138,8 @@ export default function Home() {
                   <p>
                     graduated with a bachelor&apos;s of science in computer science @{" "}
                     <CustomLink href="https://www.boisestate.edu/coen-cs/" text="boise state university" />
-                    {" "}and{" "}
-                    <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="data analytics certified by google" /> 
+                    {" "}and data analytics certified by {" "}
+                    <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="google" /> 
                   </p>
                 }
               />
