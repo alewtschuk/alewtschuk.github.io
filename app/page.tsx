@@ -136,7 +136,7 @@ export default function Home() {
                 number="01"
                 content={
                   <p>
-                    graduated with a bachelor's of science in computer science @{" "}
+                    graduated with a bachelor&apos;s of science in computer science @{" "}
                     <CustomLink href="https://www.boisestate.edu/coen-cs/" text="boise state university" />
                     {" "}and{" "}
                     <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="data analytics certified by google" /> 
