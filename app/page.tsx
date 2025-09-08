@@ -155,7 +155,7 @@ export default function Home() {
                 number="04"
                 content={
                   <p>
-                    stake pool opperator, managing infrastructure of a pool with over 500K USD in digital assets staked
+                    stake pool operator, managing the infrastructure of a pool securing over $500K USD in digital assets
                   </p>
                 }
               />
