@@ -137,9 +137,9 @@ export default function Home() {
                 content={
                   <p>
                     graduated with a bachelor&apos;s of science in computer science @{" "}
-                    <CustomLink href="https://www.boisestate.edu/coen-cs/" text="boise state university" />
+                    <CustomLink href="https://www.boisestate.edu/coen-cs/" text="Boise State University" />
                     {" "}and data analytics certified by {" "}
-                    <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="google" /> 
+                    <CustomLink href="https://www.coursera.org/account/accomplishments/professional-cert/AVA0B6YQBLY3" text="Google" /> 
                   </p>
                 }
               />
@@ -149,7 +149,7 @@ export default function Home() {
               />
               <Item
                 number="03"
-                content={<p>interested in biohacking and biological performance enhancement. what works, what doesn&apos;t, and how inputs == outputs.</p>}
+                content={<p>interested in biohacking and biological performance enhancement. what works, what doesn&apos;t, and how inputs ==</p>}
               />
               <Item
                 number="04"
@@ -202,7 +202,7 @@ export default function Home() {
                     <CustomLink href="/portfolio_files/docs/survey.pdf" text="paper" />
                     {" "}on web3 use cases within medical applications in tandem with phd guidance, backed by the{" "}
                     <CustomLink href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2051127" text="NSF" />
-                    {" "}currently in pre-submission.
+                    {", "}currently in pre-submission
                   </p>
                 }
               />
@@ -212,7 +212,7 @@ export default function Home() {
                   <p>
                     involved in developing{" "}
                     <CustomLink href="https://www.boisestate.edu/coen/news-events/annual-design-showcase/design-showcase-brochure/#:~:text=CS%2D2%20Coachr,to%20the%20game" text="coachr" />
-                    {" "}an ai driven golf training application.
+                    {", "}an ai driven golf training application
                   </p>
                 }
               />
