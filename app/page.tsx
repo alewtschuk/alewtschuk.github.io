@@ -149,7 +149,7 @@ export default function Home() {
               />
               <Item
                 number="03"
-                content={<p>interested in biohacking and biological performance enhancement. what works, what doesn&apos;t, and how inputs ==</p>}
+                content={<p>interested in biohacking and biological performance enhancement. what works, what doesn&apos;t, and how inputs == outputs</p>}
               />
               <Item
                 number="04"
