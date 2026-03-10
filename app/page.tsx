@@ -106,9 +106,9 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="font-sans text-[10px] text-gray-600/50 mt-4">
+            {/* <div className="font-sans text-[10px] text-gray-600/50 mt-4">
               stylistically inspired by @tinabmai.
-            </div>
+            </div> */}
           </div>
 
           {/* Spacer Column */}
@@ -202,7 +202,6 @@ export default function Home() {
                     <CustomLink href="/portfolio_files/docs/survey.pdf" text="paper" />
                     {" "}on web3 use cases within medical applications in tandem with phd guidance, backed by the{" "}
                     <CustomLink href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2051127" text="NSF" />
-                    {", "}currently in pre-submission
                   </p>
                 }
               />
@@ -211,8 +210,8 @@ export default function Home() {
                 content={
                   <p>
                     involved in developing{" "}
-                    <CustomLink href="https://www.boisestate.edu/coen/news-events/annual-design-showcase/design-showcase-brochure/#:~:text=CS%2D2%20Coachr,to%20the%20game" text="coachr" />
-                    {", "}an ai driven golf training application
+                    <CustomLink href="https://drive.google.com/drive/folders/1oVfT5XEk3PKCOA5504QJtM1H0KO6sAop?usp=sharing" text="coachr" />
+                    {", "}an ai driven golf training application powered by openai's whisper voice model and google gemini
                   </p>
                 }
               />
