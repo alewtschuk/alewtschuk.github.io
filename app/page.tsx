@@ -211,7 +211,7 @@ export default function Home() {
                   <p>
                     involved in developing{" "}
                     <CustomLink href="https://drive.google.com/drive/folders/1oVfT5XEk3PKCOA5504QJtM1H0KO6sAop?usp=sharing" text="coachr" />
-                    {", "}an ai driven golf training application powered by openai's whisper voice model and google gemini
+                    {", "}an ai driven golf training application powered by openai&apos;s whisper voice model and google gemini
                   </p>
                 }
               />
